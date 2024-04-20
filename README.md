@@ -28,7 +28,9 @@ The dataset leveraged in this project can be accessed directly from [here](https
 
 To seamlessly set up the requisite Python environment, execute the following command in your terminal:
 
-'''pip install -r requirements.txt'''
+```
+pip install -r requirements.txt
+```
 ## Result
 
 This implementation has achieved remarkably satisfying accuracy levels for the task, showcasing its efficacy and prowess in text classification.
