@@ -164,11 +164,10 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
-components/size1.csv
 temp.py
-components/sixes.xlsx
-components/SizeCategory.csv
 Hello.py
 repair/topol.py
 cleanings.py
 repair/connection.py
+.DS_Store 
+/.DS_Store 
