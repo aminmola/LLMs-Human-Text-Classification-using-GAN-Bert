@@ -4,13 +4,13 @@
 
 This project presents two sophisticated approaches to text classification:
 
-1.Bert-based Feature Extraction with Fully Connected Neural Network (FCNN)
+* Bert-based Feature Extraction with Fully Connected Neural Network (FCNN)
 Harnesses the power of BERT (Bidirectional Encoder Representations from Transformers) to adeptly extract features from textual data spanning various classes.
 Implements a robust Fully Connected Neural Network (FCNN) for streamlined classification based on the meticulously extracted features.
 
 I have also integrated adapter modules into our architecture, strategically reducing the model complexity (# of parameters) . This not only streamlines the computational load but also contributes to a more seamless and rapid convergence towards precise results.
 
-2.Generative Adversarial Network (GAN)Classification
+* Generative Adversarial Network (GAN)Classification
 Strategically employs a cutting-edge GAN discriminator for the classification endeavor, incorporating an additional facet with a synthetic "fake" class.
 Incorporates advanced semi-supervised techniques to adeptly learn the nuanced marginal distribution over not only synthetic data but also the core dataset.
 Leverages the potent mechanism of adversarial learning to discerningly classify Language Model-generated texts (LLMs) and authentic human-generated texts with unparalleled precision.
