@@ -25,7 +25,7 @@ The dataset leveraged in this project can be accessed directly from [here](https
 
 To seamlessly set up the requisite Python environment, execute the following command in your terminal:
 
-'''pip install -r requirements.txt'''
+```pip install -r requirements.txt```
 
 
 ## Discussion and Feedback
