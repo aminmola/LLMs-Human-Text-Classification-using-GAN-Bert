@@ -37,4 +37,4 @@ Feel free to share your insights, suggestions, or critiques by opening GitHub Is
 
 Let's engage in constructive conversations and enhance our text classification techniques together!
 
-Thanks :)
+Thanks.
