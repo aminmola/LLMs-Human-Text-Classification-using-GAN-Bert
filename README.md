@@ -32,7 +32,7 @@ To seamlessly set up the requisite Python environment, execute the following com
 
 I encourage discussions and feedback on my implementation!
 
-Feel free to share your insights, suggestions, or critiques by opening GitHub Issues. You can also reach out directly via email at aaminmola@gmial.com for more detailed discussions.
+Feel free to share your insights, suggestions, or critiques by opening GitHub Issues. You can also reach out directly via email at aaminmola@gmail.com for more detailed discussions.
 
 Let's engage in constructive conversations and enhance our text classification techniques together!
 
