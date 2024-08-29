@@ -42,10 +42,6 @@ This implementation has achieved remarkably satisfying accuracy levels for the t
 
 ## Discussion and Feedback
 
-I encourage discussions and feedback on my implementation!
-
-Feel free to share your insights, suggestions, or critiques by opening GitHub Issues. You can also reach out directly via email at aaminmola@gmail.com for more detailed discussions.
-
-Let's engage in constructive conversations and enhance our text classification techniques together!
+I encourage discussions and feedback on my implementation! (aaminmola@gmail.com)
 
 Thanks.
